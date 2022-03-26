@@ -21,10 +21,6 @@ Step4:  Run the application
 
 The API documentation with examples can be found here, [https://www.getpostman.com/collections/710059ec917ed99e8f1c](https://www.getpostman.com/collections/710059ec917ed99e8f1c).
 
-## Security Vulnerabilities
+## Heroku Live endpoint
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+[https://book-listing-comments.herokuapp.com/](https://book-listing-comments.herokuapp.com/)
