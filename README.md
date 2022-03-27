@@ -19,7 +19,7 @@ Step4:  Run the application
 
 ## Postman API Documentation
 
-The API documentation with examples can be found here, [https://www.getpostman.com/collections/710059ec917ed99e8f1c](https://www.getpostman.com/collections/710059ec917ed99e8f1c).
+The API documentation with examples can be found here, [https://documenter.getpostman.com/view/10263467/UVyn1dbX](https://documenter.getpostman.com/view/10263467/UVyn1dbX/).
 
 ## Heroku Live endpoint
 

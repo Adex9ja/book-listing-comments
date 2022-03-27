@@ -14,7 +14,7 @@
 */
 
 $router->get('/', function () use ($router) {
-    return $router->app->version();
+    return view('index');
 });
 
 $router->group(['prefix' => 'books'], function () use ($router) {
